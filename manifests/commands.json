@@ -1,0 +1,17 @@
+{
+"commands": [
+{
+"id": "otto.sample.hello",
+"name": "Sample Hello Command",
+"description": "Returns a friendly greeting from the sample module.",
+"handler": "hello_handler",
+"inputs": [],
+"outputs": [
+{
+"name": "message",
+"type": "string"
+}
+]
+}
+]
+}

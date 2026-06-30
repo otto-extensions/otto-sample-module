@@ -1,0 +1,17 @@
+{
+"id": "otto.sample.module",
+"name": "Otto Sample Module",
+"version": "1.0.0",
+"schemaVersion": "1.0.0",
+"description": "A fully working example module demonstrating commands, UI panels, and integration with the Otto kernel.",
+"author": "Otto Systems",
+"entrypoints": {
+"commands": "src/commands",
+"backend": "src/backend",
+"ui": "src/ui"
+},
+"capabilities": [
+"commands",
+"ui"
+]
+}

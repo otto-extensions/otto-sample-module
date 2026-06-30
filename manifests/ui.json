@@ -1,0 +1,13 @@
+{
+"panels": [
+{
+"id": "otto.sample.panel",
+"name": "Sample Panel",
+"description": "A simple UI panel demonstrating module UI integration.",
+"component": "SamplePanel",
+"commands": [
+"otto.sample.hello"
+]
+}
+]
+}
